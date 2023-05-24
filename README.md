@@ -14,9 +14,23 @@ Como parte de la ejercitación realizaremos las siguientes actividades:
 4. Implementar difusores para generar imágenes.
 
 
+Para poder trabajar con los ejercicios de difusores, es importante que tengas habilitado el `Runtime` con `GPU`. Esto permite invocar las librerías requeridas para poder trabajar con las redes generativas.
+
+Para ello, dentro de Colab, te diriges al menu de `Runtime`
+
+![](./img/menu.png)
+
+Y Luego configuras el entorno en `GPU`
+
+![](./img/gpu.png)
+
+Esto lo debes realizar para cada nuevo notebook que trabajes.
+
+---
+
 Para comenzar con las actividades puedes dirigirte al apartado [Notebooks](./1.notebooks/) y abrir el primer ejercicio.
 
-Esperamos te diviertas! no dudes en consultar!
+**Esperamos te diviertas! no dudes en consultar!**
 
 
 
