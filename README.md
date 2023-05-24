@@ -1,6 +1,8 @@
 # Masterclass Informativa: Descubre los fundamentos de la Ciencia de Datos
 
-![](./img/logo_senpai.png)
+<p align="center">
+<img  src="./img/logo_senpai.png" width="250" height="200">
+</p>
 
 Bienvenid@ a esta edición exclusiva de ciencia de datos. En el transcurso de la sesión realizaremos algunos ejercicios para que puedas introducirte al apasionante mundo de la ciencia de datos.
 
